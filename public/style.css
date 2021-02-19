@@ -1,0 +1,42 @@
+#item1{
+	flex-grow: 4;
+	background-color: red;
+	padding: 15px;
+	order: 5;
+	margin: 15px;
+}
+
+#item2{
+	order: 4;
+	flex-basis: 300px;
+	margin: 15px;
+	padding: 15px;
+	background-color: blue;
+}
+
+#item3{
+	margin: 15px;
+	order: 3;
+	padding: 15px;
+	flex-grow: 6;
+	background-color: yellow;
+}
+#item4{
+	background-color: pink;
+	padding: 15px;
+	margin: 15px;
+	order: 6;
+	align-self: flex-start;
+}
+
+.flex-container{
+	background-color: #7986CB;
+	flex-direction: row;
+	justify-content: space-around;
+	display: flex;
+}
+
+img{
+	width: 200px;
+	height: 145px;
+}

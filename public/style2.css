@@ -1,0 +1,10 @@
+#item4{
+	background-color: pink;
+	grid-area: leftmenu;
+	margin: 10px;
+	padding: 10px;
+}
+
+.w3-container{
+	background-color: #B2DFDB;
+}
